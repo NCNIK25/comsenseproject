@@ -2,10 +2,10 @@ Commodity Code,English,French,Kinyarwanda,Unit,Description
 10,Passion-fruit,Maracouja,Amatunda,Kilo,
 100,Honey,Miel,Ubuki,Kilo,
 101,Porc meat,Viande de porc,Inyama-ingurube,Kilo,
-102,Goat meat,Viande de chèvre,Inyama-ihene,Kilo,
+102,Goat meat,Viande de chÃ¨vre,Inyama-ihene,Kilo,
 103,Sheep meat,Viande de mouton,Inyama-intama,Kilo,
 105,Cow skin,Peau de vache,Uruhu-inka,Piece,
-106,Goat skin,Peau de chèvre,Uruhu-ihene,Piece,
+106,Goat skin,Peau de chÃ¨vre,Uruhu-ihene,Piece,
 107,Sheep skin,Peau de mouton,Uruhu-intama,Piece,
 108,Cow,Vache,Inka,Piece,Cow(80-120 kilos)
 109,Cow_Beef,Boeuf,Ikimasa,Piece,Beef(80-120 kilos)
@@ -79,7 +79,7 @@ Commodity Code,English,French,Kinyarwanda,Unit,Description
 58,Rice-Tz,Riz-Tz,Umuceli-Tz,Kilo,
 59,Uree,Uree,Uree,Kilo,
 60,Sorghum flour,Farine de sorgho,Ifu-amasaka,Kilo,
-61,Maize-flour-imported,Farine-mais-importée,Ifu-ibigori-yo-mumahanga,Kilo,
+61,Maize-flour-imported,Farine-mais-importÃ©e,Ifu-ibigori-yo-mumahanga,Kilo,
 62,Beer-banana,Banane-biere,Ibitoki-inkashi,Kilo,
 63,Charcoal,Charbon de bois,Amakara,Sack,
 65,Carrot,Carotte,Karoti,Kilo,
