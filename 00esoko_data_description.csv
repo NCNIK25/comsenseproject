@@ -1,0 +1,28 @@
+Application Name,E-soko,,
+Application url,esoko.gov.rw,,
+Current status,Operational (since 2009),,
+API Technology,-,,
+DBMS,Microsft sql server 2008,,
+Hosting,Cloud based,,
+Client UI platform,Web,,
+Data files,CSV,,
+Unit of Measure,"Liter, Kg, and some commodities prices are measured in pieces and sack",,
+Esoko database Type:,Relational DB,,
+Data coverage (temporal & Spatial),"The system start operate since 2019. The data are collect at different markets across the countrywide, there is three types of market border, rural and urban.",,
+Modules,,,
+,,,
+,Attribute Name,Data type,Explanation
+Market,MarketCodeSF1,bigint,Market code
+,MarketNameSF,nvarchar(max),Market name
+,EProvince1,nvarchar(max),Market's province location
+,ADistrict,nvarchar(40),Market's district location
+,EFinalDate,date,Approved date for data to be available to public by Admin
+Commodity,CommodityCode,bigint,Commodity code
+,CommodityName,nvarchar(max),Commodity name in Kinyarwanda
+,EComSName,nvarchar(max),Commodity name in english
+Price information,Price1,bigint,Price  for retail 1
+,Price2,bigint,Price  for retail 2
+,Price3,bigint,Price  for retail 3
+,AvgPrice,float,Average price from 3 retails
+,QWholeAveragePrice,float,Average price from 3 wholesales
+,QFarmGatePriceAverage,float,Average price from 3 farmgate
